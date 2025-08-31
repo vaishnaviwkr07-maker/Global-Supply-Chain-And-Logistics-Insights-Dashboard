@@ -30,4 +30,4 @@ The dashboard was built using the following tools and technologies:
       V) Provide insights for optimizing shipping strategies and reducing oprational expenses. 
 
 6. Screenshot: 
-   The Screenshot is look likes: 
+   The Screenshot is look likes: https://github.com/vaishnaviwkr07-maker/Global-Supply-Chain-And-Logistics-Insights-Dashboard/blob/main/Global%20Supply%20Chain%20And%20Logistics%20Insights%20Dashboard.png
